@@ -1,0 +1,150 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+.head1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.buttons{
+    background-color: #c90202;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.cardimg1{
+    width: 200px;
+    height: 80px;
+}
+
+.cardimg{
+    width: 100px;
+    height: 100px;
+}
+
+.bgimg2{
+    background-color: lightgrey;
+    height: 60vh;
+}
+
+.carding{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.chead{
+    font-size: 22px;
+}
+
+.but1{
+    color: white;
+    background-color: red;
+    width: 170px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.head2{
+    /* margin-left: -12%; */
+    font-size: 40px;
+}
+.paraline{
+    /* margin-left: -12%; */
+    color: black;
+    font-size: 20px;
+}
+.bgcolor4{
+    background-color: white;
+}
+.explorehead{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+.explorecards{
+    border-radius: 16px;
+}
+.exploreimage{
+    border-radius: 16px;
+}
+.cardhead4{
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.explorelink{
+    color: #c90202;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.paybgimg{
+    background-color: white;
+}
+.paymentimg{
+    width: 350px;
+
+}
+.payhead{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+.paypara{
+    color: #5a7184;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttoncst{
+    color: white;
+    background-color: #c90202;
+    width: 130px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.paycardimg{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+#contact{
+    background-color: grey;
+    padding-bottom: 4em;
+}
+
+.socialicons{
+    font-size: 40px;
+    cursor: pointer;
+}
+.fa-brands{
+    color: white;
+    margin: 40px;
+}
+.fa-brands:hover{
+    color: #c90202;
+}
